@@ -1,0 +1,9 @@
+var ans = prompt("So you want to play?");
+var finalString = "";
+do {
+  var word = prompt("enter"); 
+  finalString = finalString + word;
+  ans = prompt("So you want to play");
+}
+while (ans === "yes");
+console.log(finalString)

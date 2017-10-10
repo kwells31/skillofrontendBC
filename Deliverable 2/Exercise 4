@@ -1,0 +1,9 @@
+var ans = prompt("What time of day is it? Morning, Noon, Evening");
+if(ans === "Morning"){
+  console.log("Since its morning you should be eating breakfast, we suggest eggs and toast");
+} else if(ans === "Noon"){
+  console.log("Since it's Noon you should be eating Lunch, we suggest a salad");
+} else if(ans === "Evening"){
+  console.log("Since it's Evening you should be eating dinner, we suggest chicken and rice");
+}
+  

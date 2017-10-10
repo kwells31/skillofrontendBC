@@ -1,0 +1,11 @@
+var num = prompt("What is your Number?");
+
+
+var total= 0;
+ for(var i =1; i <= num; i++)
+ {
+total=i + total;
+ }
+ 
+console.log ("the total is:" + total);
+
