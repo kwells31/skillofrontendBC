@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(176, 230, 200);
+}
+h1 {
+    color: rgb(145, 255, 0);
+}
+p {
+    
+        border: 2px solid red;
+        border-radius: 5px;
+    }
+    Try it Yourself »
+    
+    color: black;
+}
+
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+Body {
+    text-align: center;
+   }
+  
+  #page-wrap {
+    text-align: left;
+    width: 800px;
+    margin: 0 auto;
+  }
+  @font-face {
+      font-family: 'Indie Flower', cursive;
+    src: url("https://fonts.googleapis.com/css?family=Indie")
+
+  font-family: 'Lobster', cursive;
+  
